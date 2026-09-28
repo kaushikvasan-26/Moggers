@@ -1,0 +1,527 @@
+====================================================================================================
+DOCUMENT 1: I year Time Table SEEE.pdf
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+PAGE 1: I / I / ECE - A
+----------------------------------------------------------------------------------------------------
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+Tiruchirappalli Campus[cite: 1]
+Faculty of Engineering and Technology[cite: 1]
+TIME TABLE - ODD SEMESTER (2024-25)[cite: 1]
+Year/Sem/Sec: I/I/ECE - A[cite: 1]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday              | Wednesday               | Thursday        | Friday
+-------------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | E (IST602)      | C (IST602)           | B (IST602)              | -               | D (IST602)
+2      | 09.55-10.45 | E (IST602)      | B (IST602)           | E (IST602)              | German (IST602) | A (IST602)
+3      | 10.50-11.40 | B (IST602)      | A (IST602)           | D (IST602)              | -               | C (IST602)
+4      | 11.45-12.35 | A (IST602)      | D (IST602)           | -                       | A (IST602)      | B (IST602)
+5      | 12.35-01.30 | LUNCH           | LUNCH                | LUNCH                   | LUNCH           | LUNCH
+6      | 01.30-02.20 | Che lab         | Workshop (IST 20,21) | PPS LAB (IST 618)       | CDC (IST510)    | F (IST602)
+7      | 02.25-03.15 | Che lab         | Workshop (IST 20,21) | PPS LAB (IST 618)       | CDC (IST510)    | German (IST626)
+8      | 03.20-04.10 | F (IST710)      | -                    | PCB Lab (IST 108)       | NSS (IST201)    | -
+9      | 04.15-05.05 | CDC (IST710)    | -                    | PCB Lab (IST 108)       | -               | -
+
+SUBJECT DETAILS (I ECE-A):
+Slot | Sub. Code   | Subject Name                               | Credit (L-T-P-C) | Periods/Week | Name of Faculty                       | Designation/Department
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-    | 21LEH104T   | German                                     | 2-1-0-3          | 3            | Mr. Selva                             | German
+E    | 21GNH101J   | Philosophy of Engineering                  | 1-0-2-2          | 1+2          | Dr. R. Aarthi                         | AP/Phy
+A    | 21MAB102T   | Advanced Calculus and Complex Analysis     | 3-1-0-4          | 4            | Dr. R. Ragul                          | AP/Maths
+B    | 21CYB101J   | Chemistry                                  | 3-1-2-5          | 4+2          | Dr. P. Pachamuthu                     | AP/Che
+C    | 21BTB102J   | Electronic System and PCB Design           | 2-0-0-2          | 2            | Dr. U. Shajith Ali                    | Asso.Prof/EEE
+D    | 21CSS101J   | Programming for Problem Solving            | 3-0-2-4          | 3+2          | Dr. A. Rama Prasath                   | Asso.Prof/CA
+-    | 21MES101L   | Basic Civil and Mechanical Workshop        | 0-0-4-2          | 4            | Dr. N.S. Balaji / Dr. M. Kumaran      | Asst.Prof/Mech
+-    | 21PDM102L   | General Aptitude                           | 0-0-2-0          | 2            | Mr. Sivanandhan                       | Communication Trainer
+-    | 21GNM102L   | NSS                                        | 0-0-2-0          | 2            | Dr. R. Manickam                       | Physical Director
+F    | 21BTB103T   | Biology                                    | 2-0-0-2          | 2            | Dr. M. Jaya Priya                     | AP/Biotech.
+
+Signatories: Time Table Coordinator (03/01/2025), HOD-ECE/EEE, DEAN FET (23/1)[cite: 1]
+
+
+----------------------------------------------------------------------------------------------------
+PAGE 2: I / I / ECE-B & EEE
+----------------------------------------------------------------------------------------------------
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+Tiruchirappalli Campus[cite: 1]
+Faculty of Engineering and Technology[cite: 1]
+TIME TABLE - ODD SEMESTER (2024-25)[cite: 1]
+Year/Sem/Sec: I/I/ECE-B & EEE[cite: 1]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday                  | Tuesday              | Wednesday              | Thursday           | Friday
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | F (IST710) / G (IST520) | -                    | F (IST710) / G (IST520)| NSS (201)          | PCB Lab/EC Lab (IST 617)
+2      | 09.55-10.45 | CDC (IST609)            | Workshop (IST 20,21) | PPS Lab (IST 617)      | NSS (201)          | PCB Lab/EC Lab (IST 617)
+3      | 10.50-11.40 | Che lab                 | Workshop (IST 20,21) | CDC (IST510)           | C (IST626)         | -
+4      | 11.45-12.35 | Che lab                 | Workshop (IST 20,21) | CDC (IST510)           | A (IST710)         | -
+5      | 12.35-01.30 | LUNCH                   | LUNCH                | LUNCH                  | LUNCH              | LUNCH
+6      | 01.30-02.20 | E (IST602)              | C (IST602)           | PPS LAB (IST 618)      | D (IST602)         | German (IST626)
+7      | 02.25-03.15 | E (IST602)              | B (IST602)           | D (IST602)             | B (IST602)         | -
+8      | 03.20-04.10 | B (IST602)              | A (IST602)           | -                      | E (IST602)         | B (IST602)
+9      | 04.15-05.05 | A (IST602)              | D (IST602)           | -                      | German (IST602)    | A (IST602)
+
+SUBJECT DETAILS (I ECE-B; EEE):
+Slot | Sub. Code   | Subject Name                                     | Credit (L-T-P-C) | Periods/Week | Name of Faculty                       | Designation/Department
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-    | 21LEH104T   | German                                           | 2-1-0-3          | 3            | Mr. Selva                             | German
+E    | 21GNH101J   | Philosophy of Engineering                        | 1-0-2-2          | 1+2          | Dr. R. Aarthi                         | AP/Phy
+A    | 21MAB102T   | Advanced Calculus and Complex Analysis           | 3-1-0-4          | 4            | Dr. M. Deepa                          | AP/Maths
+B    | 21CYB101J   | Chemistry                                        | 3-1-2-5          | 4+2          | Dr. N. Prabhu                         | AP/Che
+F    | 21BTB102J   | Electronic System and PCB Design (for ECE)       | 2-0-0-2          | 2            | Dr. U. Shajith Ali                    | Asso.Prof./EEE
+D    | 21CSS101J   | Programming for Problem Solving                  | 3-0-2-4          | 3+2          | Dr. A. Rama Prasath                   | Asso.Prof./CA
+-    | 21MES101L   | Basic Civil and Mechanical Workshop              | 0-0-4-2          | 4            | Dr. Modasir MD Khan / Mr.M.Karthikeyan| AP/Mech
+-    | 21PDM102L   | General Aptitude                                 | 0-0-2-0          | 2            | Mrs. Thenmozhi                        | Communication Trainer
+-    | 21GNM102L   | NSS                                              | 0-0-2-0          | 2            | Dr. R. Manickam                       | Physical Director
+C    | 21BTB103T   | Biology                                          | 2-0-0-2          | 2            | Dr. M. Jaya Priya                     | AP/Biotech.
+G    | 21EEC101J   | Electrical Circuits (for EEE)                    | -                | 2            | Dr. Dheepanchakkravarthy              | Asso.Prof/EEE
+
+Signatories: Time Table Coordinator (03/01/2025), HOD-ECE/EEE, DEAN FET[cite: 1]
+
+
+----------------------------------------------------------------------------------------------------
+PAGE 3: I / I / ECE - Data Science
+----------------------------------------------------------------------------------------------------
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+Tiruchirappalli Campus[cite: 1]
+Faculty of Engineering and Technology[cite: 1]
+TIME TABLE - EVEN SEMESTER (2024-25)[cite: 1]
+Year/Sem/Sec: I/I/ECE - Data Science[cite: 1]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday             | Tuesday       | Wednesday          | Thursday        | Friday
+-------------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | F (IST710)         | Che lab       | CDC (IST510)       | F (IST710)      | German (IST626)
+2      | 09.55-10.45 | PCB Lab (IST 617)  | Che lab       | CDC (IST510)       | A (IST510)      | -
+3      | 10.50-11.40 | CDC                | NSS (201)     | A (IST710)         | D (IST710)      | PPS LAB
+4      | 11.45-12.35 | -                  | NSS (201)     | -                  | -               | PPS LAB
+5      | 12.35-01.30 | LUNCH              | LUNCH         | LUNCH              | LUNCH           | LUNCH
+6      | 01.30-02.20 | E (IST502)         | C (IST502)    | PPS LAB (IST 617)  | German (IST502) | Workshop (IST 20,21)
+7      | 02.25-03.15 | E (IST502)         | B (IST502)    | B (IST502)         | -               | Workshop (IST 20,21)
+8      | 03.20-04.10 | B (IST502)         | A (IST502)    | E (IST502)         | C (IST502)      | -
+9      | 04.15-05.05 | A (IST502)         | D (IST502)    | D (IST502)         | B (IST502)      | -
+
+SUBJECT DETAILS (I ECE-DS):
+Slot | Sub. Code   | Subject Name                               | Credit (L-T-P-C) | Periods/Week | Name of Faculty                       | Designation/Department
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-    | 21LEH104T   | German                                     | 2-1-0-3          | 3            | Mr. Selva                             | German
+E    | 21GNH101J   | Philosophy of Engineering                  | 1-0-2-2          | 1+2          | Dr. R. Ramesh                         | Asso.Prof./Mech
+A    | 21MAB102T   | Advanced Calculus and Complex Analysis     | 3-1-0-4          | 4            | Dr. Pandiyarajan                      | AP/Maths
+B    | 21CYB101J   | Chemistry                                  | 3-1-2-5          | 4+2          | Dr. Ujjwala                           | AP/Che
+C    | 21BTB102J   | Electronic System and PCB Design           | 2-0-0-2          | 2            | Dr. V.N. Senthil Kumaran              | Asso.Prof/ECE
+D    | 21CSS101J   | Programming for Problem Solving            | 3-0-2-4          | 3+2          | Mrs. R. Sharanya                      | AP/CSE
+-    | 21MES101L   | Basic Civil and Mechanical Workshop        | 0-0-4-2          | 4            | Dr. Sakthibalan / Dr. MD Modasir Khan | AP/Mech
+-    | 21PDM102L   | General Aptitude                           | 0-0-2-0          | 2            | Mr. Sivanandhan                       | Communication Trainer
+-    | 21GNM102L   | NSS                                        | 0-0-2-0          | 2            | Dr. R. Manickam                       | Physical Director
+F    | 21BTB103T   | Biology                                    | 2-0-0-2          | 2            | Dr. M. Maria Leena                    | AP/Biotech.
+
+Signatories: Time Table Coordinator (03/01/2025), HOD-ECE/EEE, DEAN FET[cite: 1]
+
+
+----------------------------------------------------------------------------------------------------
+PAGE 4: I / I / Biotech - B; Biomedical Engineering
+----------------------------------------------------------------------------------------------------
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+Tiruchirappalli Campus[cite: 1]
+Faculty of Engineering and Technology[cite: 1]
+TIME TABLE - EVEN SEMESTER (2024-25)[cite: 1]
+Year / Sem / Sec: I / I / Biotech - B; Biomedical Engineering[cite: 1]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday                  | Tuesday      | Wednesday            | Thursday                | Friday
+----------------------------------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | C (IST520)              | CDC (IST710) | Workshop (IST 20,21) | Che lab                 | A (IST702)
+2      | 09.55-10.45 | YOGA                    | CDC (IST710) | Workshop (IST 20,21) | Che lab                 | F (IST702)
+3      | 10.50-11.40 | YOGA / C (IST520)       | F (IST710)   | Workshop (IST 20,21) | C (IST510) / G (IST520) | CDC (IST702)
+4      | 11.45-12.35 | F (IST710) / G (IST520) | -            | -                    | A (IST710)              | -
+5      | 12.35-01.30 | LUNCH                   | LUNCH        | LUNCH                | LUNCH                   | LUNCH
+6      | 01.30-02.20 | E (IST702)              | B (IST702)   | D (IST702)           | B (IST702)              | Japanese (IST702)
+7      | 02.25-03.15 | E (IST702)              | A (IST702)   | B (IST702)           | -                       | -
+8      | 03.20-04.10 | A (IST702)              | D (IST702)   | E (IST702)           | Japanese (IST702)       | PPS LAB
+9      | 04.15-05.05 | B (IST702)              | -            | D (IST702)           | -                       | PPS LAB
+
+SUBJECT DETAILS (I Biotech-B; Biomed. Engg.):
+Slot | Sub. Code   | Subject Name                                                   | Credit (L-T-P-C) | Periods/Week | Name of Faculty                       | Designation/Department
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-    | 21LEH105T   | Japanese                                                       | 2-1-0-3          | 3            | Mr. Nadeem                            | Japanese
+E    | 21GNH101J   | Philosophy of Engineering                                      | 1-0-2-2          | 1+2          | Dr. J. Ramya Parkavi                  | AP/Phy
+A    | 21MAB102T   | Advanced Calculus and Complex Analysis                         | 3-1-0-4          | 4            | Dr. R. Suresh                         | AP/Maths
+B    | 21CYB101J   | Chemistry                                                      | 3-1-2-5          | 4+2          | Dr. R. Logudurai &                    | AP/Che
+D    | 21CSS101J   | Programming for Problem Solving                                | 3-0-2-4          | 3+2          | Dr. B. Chitradevi                     | AP/CSE
+C    | 21BTC105T   | Cell biology (for Biotech)                                     | 2-0-0-2          | 2            | Dr. Daniel Paul                       | AP/Biotech.
+-    | 21MES101L   | Basic Civil and Mechanical Workshop                            | 0-0-4-2          | 4            | Dr. R. Manimaran / Dr. R. Ramesh      | AP/Mech & Asso.Prof/Mech
+-    | 21PDM102L   | General Aptitude                                               | 0-0-2-0          | 2            | Mr. Sivanandhan                       | Communication Trainer
+-    | 21GNM101L   | Physical and Mental Health using Yoga                          | 0-0-2-0          | 2            | Ms. Balasivapriya                     | Physical Instructor
+F    | 21BTC101T   | Biochemistry (for Biotech)                                     | 3-0-0-3          | 3            | Dr. M. Jaya Priya                     | AP/Biotech.
+G    | 21BTB104T   | Biology: Human physiology and anatomy (only for Biomed. Engg.) | 2-0-0-2          | 2            | -                                     | -
+
+Signatories: Time Table Co-ordinator (03/01/2025), HOD-Biomed, DEAN FET[cite: 1]
+
+
+====================================================================================================
+DOCUMENT 2: II BME.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 2]
+Faculty of Engineering and Technology[cite: 2]
+School of Electrical and Electronics Engineering[cite: 2]
+Time Table - Odd Semester (2026-2027)[cite: 2]
+Year-Batch/Semester: II-Year-BME / III Semester[cite: 2]
+Venue: IST 602/FN[cite: 2]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday                   | Tuesday           | Wednesday         | Thursday             | Friday
+--------------------------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | E                        | C                 | B                 | A                    | F
+2      | 09.50-10.40 | C                        | E                 | D                 | E                    | A
+-      | TEA BREAK   | TEA BREAK                | TEA BREAK         | TEA BREAK         | TEA BREAK            | TEA BREAK
+3      | 10.50-11.40 | B                        | A                 | I                 | B                    | C
+4      | 11.40-12.30 | A                        | I                 | A                 | D                    | D
+5      | 12.30-01.20 | LUNCH                    | LUNCH             | LUNCH             | LUNCH                | LUNCH
+6      | 01.20-02.10 | DLMS/EEC (IST-107,309)   | H (TB-106)        | G (IST 602)       | -                    | -
+7      | 02.10-03.00 | DLMS/EEC (IST-107,309)   | H (TB-106)        | G (IST 602)       | -                    | -
+-      | TEA BREAK   | TEA BREAK                | TEA BREAK         | TEA BREAK         | TEA BREAK            | TEA BREAK
+8      | 03.10-04.00 | -                        | -                 | -                 | DLMS/EEC (IST-107,309)| G (IST 602)
+9      | 04.00-04.50 | -                        | -                 | -                 | DLMS/EEC (IST-107,309)| -
+
+SUBJECT DETAILS (II-BME):
+Sub. Code   | Subject Name                           | Credit (L-T-P-C) | Subject Slot | Name of the Faculty        | Designation/Department
+---------------------------------------------------------------------------------------------------------------------------------------------
+21MAB201T   | Transforms and Boundary Value Problems | 3-1-0-4          | A            | Dr. A. Manickam            | ASP/MAT
+21BMC202T   | Biomedical Signals and Systems         | 3-0-0-3          | B            | Dr. Senthil Kumaran V N    | ASP & HOD/ECE
+21BMC203J   | Electric and Electronic Circuits       | 3-0-2-4          | C            | Dr. Prabin Kumar Bera      | AP/ECE
+21BMC204J   | Digital Logic for Medical Systems      | 2-0-2-3          | D            | Dr. G. Gifta               | AP/BME
+21PYS202T   | Medical Physics                        | 3-0-0-3          | E            | Dr. D. Rajeswari           | ASP/PHY
+21LEM201T   | Professional Ethics                    | 1-0-0-0          | F            | Dr. H. SriBhuvaneshwari    | AP/ECE
+21LEM202T   | Universal Human Values-II              | 2-1-0-3          | G            | Mrs. N. Suganthi           | RS - ECE
+21PDM201L   | Verbal Reasoning                       | 0-0-2-0          | H            | CDC-TB-106                 | -
+21PDH201T   | Social Engineering                     | 2-0-0-2          | I            | Mrs. Francis Arockiya Mary | RS - EEE
+
+Signatories: Time Table Coordinators, HOD, DEAN/FET[cite: 2]
+
+
+====================================================================================================
+DOCUMENT 3: II ECE DS A.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 3]
+Faculty of Engineering and Technology[cite: 3]
+School of Electrical and Electronics Engineering[cite: 3]
+Time Table - Odd Semester (2026-2027)[cite: 3]
+Year-Batch / Semester: II-Year-DS-A / III Semester[cite: 3]
+Venue: IST 416/FN[cite: 3]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday         | Wednesday       | Thursday        | Friday
+-----------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | E               | C               | A               | B               | D
+2      | 09.50-10.40 | A               | A               | B               | C               | B
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK
+3      | 10.50-11.40 | -               | E               | C               | A               | E
+4      | 11.40-12.30 | I               | D               | D               | F               | C
+5      | 12.30-01.20 | LUNCH           | LUNCH           | LUNCH           | LUNCH           | LUNCH
+6      | 01.20-02.10 | -               | -               | H (TB-106)      | LAB (IST 309/107)| -
+7      | 02.10-03.00 | -               | -               | H (TB-106)      | LAB (IST 309/107)| -
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK
+8      | 03.10-04.00 | G (IST 602)     | G (IST 602)     | -               | LAB (IST 309/107)| -
+9      | 04.00-04.50 | LAB-309/107     | H (TB-106)      | -               | LAB (IST 309/107)| -
+
+SUBJECT DETAILS (II-ECE-DS A):
+Sub. Code   | Subject Name                             | Credit (L-T-P-C) | Subject Slot | Name of the Faculty                     | Designation/Department
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+21MAB201T   | Transforms and Boundary Value Problems   | 3-1-0-4          | A            | Dr. C. Arun Kumar                       | AP/Maths
+21ECC201T   | Solid State Devices                      | 3-0-0-3          | B            | Dr. Jeevanantham S                      | AP/ECE-DS
+21CSS201T   | Computer Organization and Architecture   | 3-1-0-4          | C            | Dr. P. Murugapandiyan                   | Prof./ECE
+21ECC203T   | Digital Logic Design                     | 3-0-0-3          | D            | Dr. S. Krishnakumar                     | AP/ECE-DS
+21ECC205T   | Electromagnetic Theory and Interference  | 3-0-0-3          | E            | Dr. V. Bharathi                         | AP/ECE
+21LEM201T   | Professional Ethics                      | 1-0-0-0          | F            | Dr. Jothi M                             | AP/ECE
+21LEM202T   | Universal Human Values-II                | 2-1-0-3          | G            | Mrs. N. Suganthi                        | RS - ECE
+21PDM201L   | Verbal Reasoning                         | 0-0-2-0          | H            | CDC-TB-106                              | -
+21PDH209T   | Social Engineering                       | 2-0-0-2          | I            | Mrs. D. Lavanya                         | RS - ECE
+21ECC211L   | Devices and Digital IC Laboratory        | 0-0-4-2          | LAB          | Dr. Jeevanantham S / Dr. V. Bharathi    | AP/ECE-DS & AP/ECE
+
+Signatories: Time Table Coordinators, HOD, DEAN/FET[cite: 3]
+
+
+====================================================================================================
+DOCUMENT 4: II ECE DS B.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 4]
+Faculty of Engineering and Technology[cite: 4]
+School of Electrical and Electronics Engineering[cite: 4]
+Time Table - Odd Semester (2026-2027)[cite: 4]
+Year-Batch/ Semester: II-Year-DS-B / III Semester[cite: 4]
+Venue: IST 411/AN[cite: 4]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday           | Tuesday          | Wednesday        | Thursday         | Friday
+------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | -                | LAB (IST 309/107)| G (IST 401)      | G (IST 401)      | H (TB-106)
+2      | 09.50-10.40 | -                | LAB (IST 309/107)| -                | -                | H (TB-106)
+-      | TEA BREAK   | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | -                | LAB (IST 309/107)| -                | H (TB-106)       | -
+4      | 11.40-12.30 | -                | LAB (IST 309/107)| -                | -                | -
+5      | 12.30-01.20 | LUNCH            | LUNCH            | LUNCH            | LUNCH            | LUNCH
+6      | 01.20-02.10 | D                | C                | I                | A                | F
+7      | 02.10-03.00 | B                | D                | E                | C                | A
+-      | TEA BREAK   | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | C                | E                | A                | B                | B
+9      | 04.00-04.50 | I                | A                | D                | E                | C
+
+SUBJECT DETAILS (II-ECE-DS B):
+Sub. Code   | Subject Name                             | Credit (L-T-P-C) | Subject Slot | Name of the Faculty        | Designation/Department
+---------------------------------------------------------------------------------------------------------------------------------------------
+21MAB201T   | Transforms and Boundary Value Problems   | 3-1-0-4          | A            | NEW FACULTY 3              | AP/MAT
+21ECC201T   | Solid State Devices                      | 3-0-0-3          | B            | Dr. Jeevanantham S         | AP/ECE DS
+21CSS201T   | Computer Organization and Architecture   | 3-1-0-4          | C            | Dr. P. Murugapandiyan      | Prof./ECE
+21ECC203T   | Digital Logic Design                     | 3-0-0-3          | D            | Dr. S. Krishnakumar        | AP/ECE DS
+21ECC205T   | Electromagnetic Theory and Interference  | 3-0-0-3          | E            | Dr. V. Bharathi            | AP/ECE
+21LEM201T   | Professional Ethics                      | 1-0-0-0          | F            | Dr. K. Vigneshwaran        | AP/ECE
+21LEM202T   | Universal Human Values-II                | 2-1-0-3          | G            | Mrs. D. Lavanya            | RS - ECE
+21PDM201L   | Verbal Reasoning                         | 0-0-2-0          | H            | CDC-TB-106                 | -
+21PDH209T   | Social Engineering                       | 2-0-0-2          | I            | Mrs. D. Lavanya            | RS - ECE
+21ECC211L   | Devices and Digital IC Laboratory        | 0-0-4-2          | LAB          | Dr. S. Krishnakumar        | AP/ECE DS
+
+Signatories: Time Table Coordinators, HOD, DEAN/FET[cite: 4]
+
+
+====================================================================================================
+DOCUMENT 5: III BME.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 5]
+Faculty of Engineering and Technology[cite: 2]
+School of Electrical and Electronics Engineering[cite: 5]
+Time Table - Odd Semester (2026-2027)[cite: 5]
+Year-Batch / Semester: III-Year-BME / V Semester[cite: 5]
+Venue: IST 211/AN[cite: 5]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday              | Tuesday            | Wednesday | Thursday     | Friday
+-----------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | G (IST 625)         | BIO DSP LAB (IST108)| -        | -            | I (IST 108)
+2      | 09.50-10.40 | G (IST 625)         | BIO DSP LAB (IST108)| -        | -            | I (IST 108)
+-      | TEA BREAK   | TEA BREAK           | TEA BREAK          | TEA BREAK | TEA BREAK    | TEA BREAK
+3      | 10.50-11.40 | MPMC LAB (IST 107)  | G (IST 625)        | -         | -            | -
+4      | 11.40-12.30 | MPMC LAB (IST 107)  | -                  | -         | I (IST 108)  | -
+5      | 12.30-01.20 | LUNCH               | LUNCH              | LUNCH     | LUNCH        | LUNCH
+6      | 01.20-02.10 | E                   | C                  | C         | A            | F
+7      | 02.10-03.00 | B                   | D                  | A         | C            | A
+-      | TEA BREAK   | TEA BREAK           | TEA BREAK          | TEA BREAK | TEA BREAK    | TEA BREAK
+8      | 03.10-04.00 | F                   | A                  | F         | E            | D
+9      | 04.00-04.50 | H                   | B                  | D         | B            | E
+
+SUBJECT DETAILS (III-BME):
+Sub. Code   | Subject Name                               | Credit (L-T-P-C) | Subject Slot | Name of the Faculty                           | Designation/Department
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21MAB301T   | Probability and Statistics                 | 3-1-0-4          | A            | Dr. K. M. Karuppusamy                         | AP/Maths
+21BMC302J   | Microcontrollers and Its Application in Med| 3-0-2-4          | B            | Dr. K. Vigneshwaran                           | ASP/ECE
+21BMC301J   | Biomedical Signal Processing               | 3-0-2-4          | C            | Dr. V.N. Senthilkumaran                       | ASP & HOD/ECE
+21BME266T   | Biometrics                                 | 3-0-0-3          | D            | Dr. G. Gifta                                  | AP/BME
+21ECO103T   | Modern wireless communication system       | 3-0-0-3          | E            | Dr. Vaishnavi                                 | AP/ECE
+21BMC303T   | Principles of Medical Imaging              | 3-0-0-3          | F            | Dr. N. Prasanna Venkatesh                     | AP/BME
+21PDM301L   | Analytical and Logical Thinking Skills     | 0-0-2-0          | G            | CDC-625                                       | -
+21LEM301T   | Indian Art Form                            | 1-0-0-0          | H            | Dr. G. Gifta                                  | AP/BME
+21GNP301L   | Community Connect                          | 0-0-2-1          | I            | Dr. J. Jencia / Dr. N. Prasanna Venkatesh     | AP/BME
+
+Signatories: Time Table Coordinators, HOD, DEAN/FET[cite: 5]
+
+
+====================================================================================================
+DOCUMENT 6: III ECE A.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 6]
+Faculty of Engineering and Technology[cite: 6]
+School of Electrical and Electronics Engineering[cite: 6]
+Time Table - Odd Semester (2026-2027)[cite: 6]
+Year-Batch/Semester: III-Year-ECE_A Section / V Semester[cite: 6]
+Venue: IST 518/FN[cite: 6]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday         | Wednesday       | Thursday         | Friday
+-------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | E               | H               | C               | A                | D
+2      | 09.50-10.40 | B               | D               | A               | E                | A
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | -               | B               | B               | D                | C
+4      | 11.40-12.30 | A               | B-Proj          | F               | F                | C
+5      | 12.30-01.20 | LUNCH           | LUNCH           | LUNCH           | LUNCH            | LUNCH
+6      | 01.20-02.10 | -               | -               | G (IST 625)     | LAB (IST 108/309)| LAB (IST 108/309)
+7      | 02.10-03.00 | -               | -               | G (IST 625)     | LAB (IST 108/309)| LAB (IST 108/309)
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | -               | -               | -               | LAB (IST 108/309)| LAB (IST 108/309)
+9      | 04.00-04.50 | -               | -               | -               | LAB (IST 108/309)| LAB (IST 108/309)
+
+SUBJECT DETAILS (III ECE-A):
+Sub. Code   | Subject Name                                                   | Credit (L-T-P-C) | Subject Slot | Name of the Faculty                                                     | Designation/Department
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21MAB302T   | Discrete Mathematics                                           | 3-1-0-4          | A            | New Faculty 3                                                           | AP/Maths
+21ECC301P   | Microprocessor, Microcontroller, and Interfacing Techniques    | 3-1-0-4          | B            | Dr. M. Manikandan                                                       | AP/ECE
+21ECC303T   | VLSI Design and Technology                                     | 3-0-0-3          | C            | Dr. M. Jothi                                                            | AP/ECE
+21ECE468T   | System and Network on Chip                                     | 3-0-0-3          | D            | Dr. V. Manikandan                                                       | AP/ECE-DS
+21CSO355T   | Machine learning for all                                       | 3-0-0-3          | E            | Dr. J. Jencia                                                           | AP/BME
+21GNP301L   | Community connect                                              | 0-0-2-1          | F            | Dr. V. Rajesh / Dr. V. Bharathi                                         | AP/ECE
+21PDM301L   | Analytical and logical thinking skills                         | 0-0-2-0          | G            | CDC/625                                                                 | -
+21LEM301T   | Indian Art Form                                                | 1-0-0-0          | H            | Dr. K. Vigneshwaran                                                     | AP/ECE
+21ECC311L   | VLSI Design/ Microprocessor Laboratory                         | 0-0-4-2          | LAB          | Dr. M. Jothi & Dr. P. Murugapandiyan / Dr. V. Manikandan                 | AP/ECE, Prof./ECE, AP/ECE-DS
+
+Signatories: Time Table Coordinators (V.N. Senthil), HOD, DEAN/FET (17/07/2026)[cite: 6]
+
+
+====================================================================================================
+DOCUMENT 7: III ECE B.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 7]
+Faculty of Engineering and Technology[cite: 7]
+School of Electrical and Electronics Engineering[cite: 7]
+Time Table - Odd Semester (2026-2027)[cite: 7]
+Year-Batch / Semester: III-Year-ECE_B Section / V Semester[cite: 7]
+Venue: IST 518/AN[cite: 7]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday           | Tuesday          | Wednesday        | Thursday         | Friday
+------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | LAB (IST 108/309)| G (IST 625)      | G (IST 625)      | -                | LAB (IST 108/309)
+2      | 09.50-10.40 | LAB (IST 108/309)| -                | -                | -                | LAB (IST 108/309)
+-      | TEA BREAK   | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | -                | -                | -                | -                | LAB (IST 108/309)
+4      | 11.40-12.30 | -                | -                | -                | -                | LAB (IST 108/309)
+5      | 12.30-01.20 | LUNCH            | LUNCH            | LUNCH            | LUNCH            | LUNCH
+6      | 01.20-02.10 | E                | F                | B-Proj           | A                | C
+7      | 02.10-03.00 | B                | B                | B                | C                | A
+-      | TEA BREAK   | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | A                | D                | A                | E                | E
+9      | 04.00-04.50 | D                | C                | H                | F                | D
+
+SUBJECT DETAILS (III ECE-B):
+Sub. Code   | Subject Name                                                   | Credit (L-T-P-C) | Subject Slot | Name of the Faculty                                                      | Designation/Department
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21MAB302T   | Discrete Mathematics                                           | 3-1-0-4          | A            | Dr. M. Thanga Rejini                                                     | AP/Maths
+21ECC301P   | Microprocessor, Microcontroller, and Interfacing Techniques    | 3-1-0-4          | B            | Mrs. B. Abirami                                                          | EO/SRMIST
+21ECC303T   | VLSI Design and Technology                                     | 3-0-0-3          | C            | Dr. R. Vinoth Raj                                                        | AP/ECE-DS
+21ECE468T   | System and Network on Chip                                     | 3-0-0-3          | D            | Dr. V. Manikandan                                                        | AP/ECE-DS
+21CSO355T   | Machine learning for all                                       | 3-0-0-3          | E            | Dr. J. Jencia                                                            | AP/BME
+21GNP301L   | Community connect                                              | 0-0-2-1          | F            | Dr. H. Sudharsan / Ms. T. Swetha                                         | AP/ECE
+21PDM301L   | Analytical and logical thinking skills                         | 0-0-2-0          | G            | CDC-625                                                                  | -
+21LEM301T   | Indian Art Form                                                | 1-0-0-0          | H            | Dr. A. Anand                                                             | AP/ECE
+21ECC311L   | VLSI Design/ Microprocessor Laboratory                         | 0-0-4-2          | LAB          | Dr. Sreenivasa Rao Ijada / Dr. B. DeviSri & Dr. Prasanna Venkatesh      | Prof./ECE, AP/ECE, AP/BME
+
+Signatories: Time Table Coordinators, HOD (V.N. Senthil Kumar 17/07/2026), DEAN/FET[cite: 7]
+
+
+====================================================================================================
+DOCUMENT 8: III ECE DS.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 8]
+Faculty of Engineering and Technology[cite: 8]
+School of Electrical and Electronics Engineering[cite: 8]
+Time Table - Odd Semester (2026-2027)[cite: 8]
+Year-Batch / Semester: III-Year-ECE_DS / V Semester[cite: 8]
+Venue: IST 519/FN[cite: 8]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday         | Wednesday       | Thursday         | Friday
+-------------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | E               | C               | H               | A                | D
+2      | 09.50-10.40 | B               | B               | B               | D                | A
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | C               | D               | A               | E                | E
+4      | 11.40-12.30 | A               | F               | C               | F                | B-Proj
+5      | 12.30-01.20 | LUNCH           | LUNCH           | LUNCH           | LUNCH            | LUNCH
+6      | 01.20-02.10 | -               | -               | -               | -                | G (IST 625)
+7      | 02.10-03.00 | LAB (IST 108/107)| -              | -               | -                | -
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK       | TEA BREAK       | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | LAB (IST 108/107)| G (IST 625)    | -               | -                | LAB (IST 108/107)
+9      | 04.00-04.50 | LAB (IST 108/107)| -              | -               | -                | LAB (IST 108/107)
+
+SUBJECT DETAILS (III ECE-DS):
+Sub. Code   | Subject Name                                                   | Credit (L-T-P-C) | Subject Slot | Name of the Faculty                             | Designation/Department
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21MAB302T   | Discrete Mathematics                                           | 3-1-0-4          | A            | New faculty 2                                   | AP/Maths
+21ECC301P   | Microprocessor, Microcontroller, and Interfacing Techniques    | 3-1-0-4          | B            | Mrs. B. Abirami                                 | EO/SRMIST
+21ECC303T   | VLSI Design and Technology                                     | 3-0-0-3          | C            | Dr. R. Vinoth Raj                               | AP/ECE-DS
+21CSO355T   | Machine learning for all                                       | 3-0-0-3          | D            | Dr. Chitra Devi                                 | ASP/SOC
+21ECE371T   | Database Design and Management                                 | 3-0-0-3          | E            | Dr. S. Saraswathi                               | AP/SOC
+21GNP301L   | Community connect                                              | 0-0-2-1          | F            | Dr. S. Jeevanantham / Dr. V. Manikandan         | AP/ECE-DS
+21PDM301L   | Analytical and logical thinking skills                         | 0-0-2-0          | G            | CDC-625                                         | -
+21LEM301T   | Indian Art Form                                                | 1-0-0-0          | H            | Dr. Prabin Kumar Bera                           | AP/ECE
+21ECC311L   | VLSI Design/ Microprocessor Laboratory                         | 0-0-4-2          | LAB          | Dr. R. Vinothraj / Dr. H. Sri Bhuvaneshwari     | AP/ECE DS & AP/ECE
+
+Signatories: Time Table Coordinators, HOD, DEAN/FET[cite: 8]
+
+
+====================================================================================================
+DOCUMENT 9: IV ECE A.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 9]
+Faculty of Engineering and Technology[cite: 9]
+School of Electrical and Electronics Engineering[cite: 9]
+Time Table - Odd Semester (2026-2027)[cite: 9]
+Year-Batch / Semester: IV-Year-ECE_A Section / VII Semester[cite: 9]
+Venue: IST 225[cite: 9]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday          | Wednesday        | Thursday         | Friday
+-----------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | C               | C                | B                | F                | C
+2      | 09.50-10.40 | D               | LAB (IST 108)    | LAB (IST 108)    | A                | A
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | A               | -                | E                | E                | D
+4      | 11.40-12.30 | D               | -                | F                | B                | E
+5      | 12.30-01.20 | LUNCH           | LUNCH            | LUNCH            | LUNCH            | LUNCH
+6      | 01.20-02.10 | -               | -                | -                | -                | -
+7      | 02.10-03.00 | -               | -                | -                | -                | -
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | -               | -                | -                | -                | -
+9      | 04.00-04.50 | -               | -                | -                | -                | -
+
+SUBJECT DETAILS (IV ECE-A):
+Sub. Code   | Subject Name                                              | Credit (L-T-P-C) | Subject Slot | Name of the Faculty              | Designation/Department
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21GNH401T   | Behavioural Psychology                                    | 2-1-0-3          | A            | Dr. A. Anand                     | AP/ECE
+21ECC401T   | Wireless Communication and Antenna Systems                | 3-0-0-3          | B            | Dr. K. Vigneshwaran              | AP/ECE
+21ECC402P   | Computer Communication and Network Security               | 2-1-0-3          | C            | Dr. S. Jeevanantham              | AP/ECE-DS
+21ECE461T   | Semiconductor Memory Design                               | 3-0-0-3          | D            | Dr. H. SriBhuvaneshwari          | AP/ECE
+21ECE463T   | Scripting Language for Electronic Design Automation       | 3-0-0-3          | E            | Dr. Sreenivasa Rao Ijada         | Prof/ECE
+21CSO355T   | Machine learning for all                                  | 3-0-0-3          | F            | Dr. N. Prasanna Venkatesh        | AP/BME
+21ECC402P   | Computer Communication and Network Security               | 2-1-0-3          | LAB          | Mrs. T. Swetha                   | AP/ECE
+
+Signatories: Time Table Coordinators, HOD (17/01/2026), DEAN/FET[cite: 9]
+
+
+====================================================================================================
+DOCUMENT 10: IV ECE B.pdf
+====================================================================================================
+SRM Institute of Science and Technology-Tiruchirappalli[cite: 10]
+Faculty of Engineering and Technology[cite: 10]
+School of Electrical and Electronics Engineering[cite: 10]
+Time Table - Odd Semester (2026-2027)[cite: 10]
+Year-Batch / Semester: IV-Year-ECE B Section / VII Semester[cite: 10]
+Venue: IST 227[cite: 10]
+
+TIMETABLE SCHEDULE:
+Period | Time        | Monday          | Tuesday          | Wednesday        | Thursday         | Friday
+-----------------------------------------------------------------------------------------------------------------
+1      | 09.00-09.50 | C               | C                | C                | D                | E
+2      | 09.50-10.40 | A               | E                | D                | B                | D
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+3      | 10.50-11.40 | E               | A                | B                | LAB (IST 108)    | F
+4      | 11.40-12.30 | F               | F                | B                | A                | -
+5      | 12.30-01.20 | LUNCH           | LUNCH            | LUNCH            | LUNCH            | LUNCH
+6      | 01.20-02.10 | -               | -                | -                | -                | -
+7      | 02.10-03.00 | -               | -                | -                | -                | -
+-      | TEA BREAK   | TEA BREAK       | TEA BREAK        | TEA BREAK        | TEA BREAK        | TEA BREAK
+8      | 03.10-04.00 | -               | -                | -                | -                | -
+9      | 04.00-04.50 | -               | -                | -                | -                | -
+
+SUBJECT DETAILS (IV ECE-B):
+Sub. Code   | Subject Name                                              | Credit (L-T-P-C) | Subject Slot | Name of the Faculty              | Designation/Department
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21GNH401T   | Behavioural Psychology                                    | 2-1-0-3          | A            | Dr. A. Anand                     | AP/ECE
+21ECC401T   | Wireless Communication and Antenna Systems                | 3-0-0-3          | B            | Dr. K. Vigneshwaran              | AP/ECE
+21ECC402P   | Computer Communication and Network Security               | 2-1-0-3          | C            | Dr. R. Rajasekar                 | ASP & HOD ECE - DS
+21ECE461T   | Semiconductor Memory Design                               | 3-0-0-3          | D            | Dr. H. SriBhuvaneshwari          | AP/ECE
+21ECE463T   | Scripting Language for Electronic Design Automation       | 3-0-0-3          | E            | Dr. Sreenivasa Rao Ijada         | Prof/ECE
+21CSO355T   | Machine learning for all                                  | 3-0-0-3          | F            | Dr. N. Prasanna Venkatesh        | AP/BME
+21ECC402P   | Computer Communication and Network Security               | 2-1-0-3          | LAB          | Ms. T. Swetha                    | AP/ECE
+
+Signatories: Time Table Coordinators, HOD (17/02/2026), DEAN/FET[cite: 10]

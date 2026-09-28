@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SRM AttendIQ - Smart Attendance Dashboard</title>
+  <meta name="description" content="Smart attendance dashboard for SRM students. Track your attendance, simulate leaves, and get AI-powered advice to stay out of detention."/>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="chart.umd.min.js"></script>
+</head>
+<body>
+<header class="app-header">
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-icon">📊</div>
+      <div>
+        <span class="logo-title">AttendIQ</span>
+        <span class="logo-sub">SRM Smart Planner</span>
+      </div>
+    </div>
+    <div class="header-meta">
+      <div class="date-chip" id="todayChip">📅 Loading...</div>
+      <div class="semester-chip">Odd Sem 2026-27</div>
+    </div>
+  </div>
+</header>
+<main class="main-content">
+  <section class="setup-section card" id="setupPanel">
+    <h2 class="section-title">🎓 Setup Your Dashboard</h2>
+    <div class="setup-grid">
+      <div class="form-group">
+        <label for="sectionSelect">Class Section</label>
+        <select id="sectionSelect">
+          <option value="">— Choose your section —</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="targetDate">📅 Planning Target Date</label>
+        <input type="date" id="targetDate" />
+        <small>Leave as-is to plan till semester end (Nov 29, 2026)</small>
+      </div>
+    </div>
+    <div id="subjectInputArea" class="subject-input-area hidden">
+      <h3 class="sub-title">Enter Your Current Attendance % Per Subject</h3>
+      <div class="subject-inputs-grid" id="subjectInputsGrid"></div>
+      <div class="action-row">
+        <button class="btn-primary" id="calculateBtn">⚡ Calculate My Attendance Plan</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="resultsSection" class="results-section hidden">
+    <div class="card health-overview">
+      <div class="health-header">
+        <div>
+          <h2 class="section-title">📈 Attendance Health Overview</h2>
+          <p id="semesterCountdown" class="subtitle"></p>
+        </div>
+        <div class="health-badge" id="overallBadge"></div>
+      </div>
+      <div class="chart-wrap">
+        <div class="chart-box"><canvas id="radarChart"></canvas></div>
+        <div class="chart-box"><canvas id="barChart"></canvas></div>
+      </div>
+    </div>
+
+    <div id="subjectCards" class="subject-cards-grid"></div>
+
+    <div class="card od-simulator">
+      <h2 class="section-title">🏥 OD / Medical Leave Simulator</h2>
+      <p class="subtitle">Simulate leave days and instantly see how your attendance changes.</p>
+      <div class="od-form">
+        <div class="form-group">
+          <label>Leave Type</label>
+          <div class="toggle-group">
+            <button class="toggle-btn active" id="odBtn">On-Duty (OD)</button>
+            <button class="toggle-btn" id="medBtn">Medical Leave</button>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="leaveStartDate">Start Date</label>
+          <input type="date" id="leaveStartDate"/>
+        </div>
+        <div class="form-group">
+          <label for="leaveDays">Number of Days</label>
+          <input type="number" id="leaveDays" min="1" max="30" value="1"/>
+        </div>
+        <div class="form-group">
+          <label for="leaveSubjects">Affected Subjects</label>
+          <select id="leaveSubjects" multiple size="5"></select>
+          <small>Hold Ctrl to select multiple</small>
+        </div>
+        <div class="form-group" style="align-self:end">
+          <button class="btn-secondary" id="simulateBtn">🔮 Simulate Impact</button>
+        </div>
+      </div>
+      <div id="simulationResults" class="simulation-results hidden"></div>
+    </div>
+  </section>
+</main>
+
+<button class="chat-fab" id="chatFab">
+  <span class="chat-fab-icon">🤖</span>
+  <span>AI Advisor</span>
+</button>
+
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-header">
+    <div class="chat-title">
+      <span style="font-size:1.4rem">🤖</span>
+      <div>
+        <div class="chat-name">Attendance Advisor</div>
+        <div class="chat-status">Powered by your live data</div>
+      </div>
+    </div>
+    <button class="chat-close" id="chatClose">✕</button>
+  </div>
+  <div class="chat-messages" id="chatMessages">
+    <div class="msg bot">
+      <div class="msg-bubble">
+        Hey! 👋 I'm your Attendance Advisor. I can see your live dashboard data.<br><br>
+        Try asking:<br>
+        • "If I take 3 sick days, will my attendance drop below 75%?"<br>
+        • "Which subject needs the most attention?"<br>
+        • "How many classes can I skip and stay safe?"<br>
+        • "Am I in detention danger?"
+      </div>
+    </div>
+  </div>
+  <div class="chat-input-area">
+    <input type="text" id="chatInput" placeholder="Ask about your attendance..." autocomplete="off"/>
+    <button class="chat-send" id="chatSend">➤</button>
+  </div>
+</div>
+
+<div class="modal-overlay hidden" id="detentionModal">
+  <div class="modal-box detention-modal">
+    <div class="detention-icon">🚨</div>
+    <h2>IRREVERSIBLE DETENTION</h2>
+    <p id="detentionMsg"></p>
+    <button class="btn-danger" id="dismissDetention">I Understand the Risk</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

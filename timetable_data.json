@@ -1,0 +1,1173 @@
+{
+  "semesterStart": "2026-08-29",
+  "semesterEnd": "2026-11-29",
+  "sections": {
+    "I_ECE_A": {
+      "label": "I Year – ECE A",
+      "year": 1,
+      "semester": 1,
+      "venue": "IST602",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB102T",
+          "name": "Advanced Calculus & Complex Analysis",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21CYB101J",
+          "name": "Chemistry",
+          "credits": "3-1-2-5"
+        },
+        {
+          "slot": "C",
+          "code": "21BTB102J",
+          "name": "Electronic System and PCB Design",
+          "credits": "2-0-0-2"
+        },
+        {
+          "slot": "D",
+          "code": "21CSS101J",
+          "name": "Programming for Problem Solving",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "E",
+          "code": "21GNH101J",
+          "name": "Philosophy of Engineering",
+          "credits": "1-0-2-2"
+        },
+        {
+          "slot": "F",
+          "code": "21BTB103T",
+          "name": "Biology",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "E",
+          "B",
+          "A",
+          "F"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "A",
+          "D",
+          "A"
+        ],
+        "Wednesday": [
+          "B",
+          "E",
+          "D",
+          "D",
+          "F"
+        ],
+        "Thursday": [
+          "A",
+          "A",
+          "B",
+          "C",
+          "B"
+        ],
+        "Friday": [
+          "D",
+          "A",
+          "C",
+          "B",
+          "F"
+        ]
+      }
+    },
+    "I_ECE_B_EEE": {
+      "label": "I Year – ECE B & EEE",
+      "year": 1,
+      "semester": 1,
+      "venue": "IST602",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB102T",
+          "name": "Advanced Calculus & Complex Analysis",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21CYB101J",
+          "name": "Chemistry",
+          "credits": "3-1-2-5"
+        },
+        {
+          "slot": "C",
+          "code": "21BTB103T",
+          "name": "Biology",
+          "credits": "2-0-0-2"
+        },
+        {
+          "slot": "D",
+          "code": "21CSS101J",
+          "name": "Programming for Problem Solving",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "E",
+          "code": "21GNH101J",
+          "name": "Philosophy of Engineering",
+          "credits": "1-0-2-2"
+        },
+        {
+          "slot": "F",
+          "code": "21BTB102J",
+          "name": "Electronic System and PCB Design",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "F",
+          "E",
+          "E",
+          "B",
+          "A"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "A",
+          "D",
+          "B"
+        ],
+        "Wednesday": [
+          "F",
+          "D",
+          "D",
+          "E",
+          "A"
+        ],
+        "Thursday": [
+          "C",
+          "A",
+          "D",
+          "B",
+          "E"
+        ],
+        "Friday": [
+          "C",
+          "B",
+          "F",
+          "B",
+          "A"
+        ]
+      }
+    },
+    "I_ECE_DS": {
+      "label": "I Year – ECE Data Science",
+      "year": 1,
+      "semester": 1,
+      "venue": "IST502",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB102T",
+          "name": "Advanced Calculus & Complex Analysis",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21CYB101J",
+          "name": "Chemistry",
+          "credits": "3-1-2-5"
+        },
+        {
+          "slot": "C",
+          "code": "21BTB102J",
+          "name": "Electronic System and PCB Design",
+          "credits": "2-0-0-2"
+        },
+        {
+          "slot": "D",
+          "code": "21CSS101J",
+          "name": "Programming for Problem Solving",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "E",
+          "code": "21GNH101J",
+          "name": "Philosophy of Engineering",
+          "credits": "1-0-2-2"
+        },
+        {
+          "slot": "F",
+          "code": "21BTB103T",
+          "name": "Biology",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "F",
+          "E",
+          "E",
+          "B",
+          "A"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "A",
+          "D",
+          "A"
+        ],
+        "Wednesday": [
+          "A",
+          "B",
+          "E",
+          "D",
+          "D"
+        ],
+        "Thursday": [
+          "F",
+          "A",
+          "D",
+          "C",
+          "B"
+        ],
+        "Friday": [
+          "E",
+          "C",
+          "B",
+          "E",
+          "B"
+        ]
+      }
+    },
+    "I_Biotech_BME": {
+      "label": "I Year – Biotech B & Biomedical",
+      "year": 1,
+      "semester": 1,
+      "venue": "IST702",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB102T",
+          "name": "Advanced Calculus & Complex Analysis",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21CYB101J",
+          "name": "Chemistry",
+          "credits": "3-1-2-5"
+        },
+        {
+          "slot": "C",
+          "code": "21BTC105T",
+          "name": "Cell Biology (Biotech)",
+          "credits": "2-0-0-2"
+        },
+        {
+          "slot": "D",
+          "code": "21CSS101J",
+          "name": "Programming for Problem Solving",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "E",
+          "code": "21GNH101J",
+          "name": "Philosophy of Engineering",
+          "credits": "1-0-2-2"
+        },
+        {
+          "slot": "F",
+          "code": "21BTC101T",
+          "name": "Biochemistry (Biotech)",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "G",
+          "code": "21BTB104T",
+          "name": "Biology: Human Physiology & Anatomy",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "C",
+          "E",
+          "E",
+          "A",
+          "B"
+        ],
+        "Tuesday": [
+          "F",
+          "B",
+          "A",
+          "D",
+          "F"
+        ],
+        "Wednesday": [
+          "A",
+          "D",
+          "B",
+          "E",
+          "D"
+        ],
+        "Thursday": [
+          "B",
+          "C",
+          "A",
+          "B",
+          "A"
+        ],
+        "Friday": [
+          "A",
+          "F",
+          "D",
+          "B",
+          "D"
+        ]
+      }
+    },
+    "II_BME": {
+      "label": "II Year – BME (III Sem)",
+      "year": 2,
+      "semester": 3,
+      "venue": "IST 602/FN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB201T",
+          "name": "Transforms and Boundary Value Problems",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21BMC202T",
+          "name": "Biomedical Signals and Systems",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "C",
+          "code": "21BMC203J",
+          "name": "Electric and Electronic Circuits",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "D",
+          "code": "21BMC204J",
+          "name": "Digital Logic for Medical Systems",
+          "credits": "2-0-2-3"
+        },
+        {
+          "slot": "E",
+          "code": "21PYS202T",
+          "name": "Medical Physics",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21LEM201T",
+          "name": "Professional Ethics",
+          "credits": "1-0-0-0"
+        },
+        {
+          "slot": "G",
+          "code": "21LEM202T",
+          "name": "Universal Human Values-II",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "H",
+          "code": "21PDM201L",
+          "name": "Verbal Reasoning",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "I",
+          "code": "21PDH201T",
+          "name": "Social Engineering",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "C",
+          "B",
+          "A",
+          "F"
+        ],
+        "Tuesday": [
+          "C",
+          "E",
+          "A",
+          "I",
+          "G"
+        ],
+        "Wednesday": [
+          "B",
+          "D",
+          "I",
+          "A",
+          "G"
+        ],
+        "Thursday": [
+          "A",
+          "E",
+          "B",
+          "D",
+          "G"
+        ],
+        "Friday": [
+          "F",
+          "A",
+          "C",
+          "D",
+          "G"
+        ]
+      }
+    },
+    "II_ECE_DS_A": {
+      "label": "II Year – ECE DS A (III Sem)",
+      "year": 2,
+      "semester": 3,
+      "venue": "IST 416/FN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB201T",
+          "name": "Transforms and Boundary Value Problems",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC201T",
+          "name": "Solid State Devices",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "C",
+          "code": "21CSS201T",
+          "name": "Computer Organization and Architecture",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "D",
+          "code": "21ECC203T",
+          "name": "Digital Logic Design",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECC205T",
+          "name": "Electromagnetic Theory and Interference",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21LEM201T",
+          "name": "Professional Ethics",
+          "credits": "1-0-0-0"
+        },
+        {
+          "slot": "G",
+          "code": "21LEM202T",
+          "name": "Universal Human Values-II",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "H",
+          "code": "21PDM201L",
+          "name": "Verbal Reasoning",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "I",
+          "code": "21PDH209T",
+          "name": "Social Engineering",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "A",
+          "I",
+          "C",
+          "A"
+        ],
+        "Tuesday": [
+          "C",
+          "A",
+          "E",
+          "D",
+          "H"
+        ],
+        "Wednesday": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "H"
+        ],
+        "Thursday": [
+          "B",
+          "C",
+          "A",
+          "F",
+          "B"
+        ],
+        "Friday": [
+          "D",
+          "B",
+          "E",
+          "C",
+          "E"
+        ]
+      }
+    },
+    "II_ECE_DS_B": {
+      "label": "II Year – ECE DS B (III Sem)",
+      "year": 2,
+      "semester": 3,
+      "venue": "IST 411/AN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB201T",
+          "name": "Transforms and Boundary Value Problems",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC201T",
+          "name": "Solid State Devices",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "C",
+          "code": "21CSS201T",
+          "name": "Computer Organization and Architecture",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "D",
+          "code": "21ECC203T",
+          "name": "Digital Logic Design",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECC205T",
+          "name": "Electromagnetic Theory and Interference",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21LEM201T",
+          "name": "Professional Ethics",
+          "credits": "1-0-0-0"
+        },
+        {
+          "slot": "G",
+          "code": "21LEM202T",
+          "name": "Universal Human Values-II",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "H",
+          "code": "21PDM201L",
+          "name": "Verbal Reasoning",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "I",
+          "code": "21PDH209T",
+          "name": "Social Engineering",
+          "credits": "2-0-0-2"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "D",
+          "B",
+          "C",
+          "I",
+          "C"
+        ],
+        "Tuesday": [
+          "C",
+          "D",
+          "E",
+          "A",
+          "A"
+        ],
+        "Wednesday": [
+          "I",
+          "E",
+          "A",
+          "D",
+          "B"
+        ],
+        "Thursday": [
+          "A",
+          "C",
+          "B",
+          "E",
+          "B"
+        ],
+        "Friday": [
+          "H",
+          "H",
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    },
+    "III_BME": {
+      "label": "III Year – BME (V Sem)",
+      "year": 3,
+      "semester": 5,
+      "venue": "IST 211/AN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB301T",
+          "name": "Probability and Statistics",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21BMC302J",
+          "name": "Microcontrollers & Application in Medicine",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "C",
+          "code": "21BMC301J",
+          "name": "Biomedical Signal Processing",
+          "credits": "3-0-2-4"
+        },
+        {
+          "slot": "D",
+          "code": "21BME266T",
+          "name": "Biometrics",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECO103T",
+          "name": "Modern Wireless Communication System",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21BMC303T",
+          "name": "Principles of Medical Imaging",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "G",
+          "code": "21PDM301L",
+          "name": "Analytical and Logical Thinking Skills",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "H",
+          "code": "21LEM301T",
+          "name": "Indian Art Form",
+          "credits": "1-0-0-0"
+        },
+        {
+          "slot": "I",
+          "code": "21GNP301L",
+          "name": "Community Connect",
+          "credits": "0-0-2-1"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "B",
+          "F",
+          "H",
+          "G"
+        ],
+        "Tuesday": [
+          "C",
+          "D",
+          "A",
+          "B",
+          "G"
+        ],
+        "Wednesday": [
+          "C",
+          "A",
+          "F",
+          "D",
+          "A"
+        ],
+        "Thursday": [
+          "A",
+          "C",
+          "E",
+          "B",
+          "I"
+        ],
+        "Friday": [
+          "F",
+          "A",
+          "D",
+          "E",
+          "I"
+        ]
+      }
+    },
+    "III_ECE_A": {
+      "label": "III Year – ECE A (V Sem)",
+      "year": 3,
+      "semester": 5,
+      "venue": "IST 518/FN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB302T",
+          "name": "Discrete Mathematics",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC301P",
+          "name": "Microprocessor, Microcontroller & Interfacing Techniques",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "C",
+          "code": "21ECC303T",
+          "name": "VLSI Design and Technology",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "D",
+          "code": "21ECE468T",
+          "name": "System and Network on Chip",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21CSO355T",
+          "name": "Machine Learning for All",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21GNP301L",
+          "name": "Community Connect",
+          "credits": "0-0-2-1"
+        },
+        {
+          "slot": "G",
+          "code": "21PDM301L",
+          "name": "Analytical and Logical Thinking Skills",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "H",
+          "code": "21LEM301T",
+          "name": "Indian Art Form",
+          "credits": "1-0-0-0"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "B",
+          "A",
+          "B",
+          "G"
+        ],
+        "Tuesday": [
+          "H",
+          "D",
+          "B",
+          "D",
+          "F"
+        ],
+        "Wednesday": [
+          "C",
+          "A",
+          "B",
+          "F",
+          "G"
+        ],
+        "Thursday": [
+          "A",
+          "E",
+          "D",
+          "F",
+          "B"
+        ],
+        "Friday": [
+          "D",
+          "A",
+          "C",
+          "C",
+          "B"
+        ]
+      }
+    },
+    "III_ECE_B": {
+      "label": "III Year – ECE B (V Sem)",
+      "year": 3,
+      "semester": 5,
+      "venue": "IST 518/AN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB302T",
+          "name": "Discrete Mathematics",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC301P",
+          "name": "Microprocessor, Microcontroller & Interfacing Techniques",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "C",
+          "code": "21ECC303T",
+          "name": "VLSI Design and Technology",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "D",
+          "code": "21ECE468T",
+          "name": "System and Network on Chip",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21CSO355T",
+          "name": "Machine Learning for All",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21GNP301L",
+          "name": "Community Connect",
+          "credits": "0-0-2-1"
+        },
+        {
+          "slot": "G",
+          "code": "21PDM301L",
+          "name": "Analytical and Logical Thinking Skills",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "H",
+          "code": "21LEM301T",
+          "name": "Indian Art Form",
+          "credits": "1-0-0-0"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "B",
+          "A",
+          "D",
+          "G"
+        ],
+        "Tuesday": [
+          "F",
+          "B",
+          "D",
+          "C",
+          "G"
+        ],
+        "Wednesday": [
+          "B",
+          "A",
+          "H",
+          "F",
+          "G"
+        ],
+        "Thursday": [
+          "A",
+          "C",
+          "E",
+          "F",
+          "B"
+        ],
+        "Friday": [
+          "C",
+          "A",
+          "E",
+          "D",
+          "B"
+        ]
+      }
+    },
+    "III_ECE_DS": {
+      "label": "III Year – ECE DS (V Sem)",
+      "year": 3,
+      "semester": 5,
+      "venue": "IST 519/FN",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21MAB302T",
+          "name": "Discrete Mathematics",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC301P",
+          "name": "Microprocessor, Microcontroller & Interfacing Techniques",
+          "credits": "3-1-0-4"
+        },
+        {
+          "slot": "C",
+          "code": "21ECC303T",
+          "name": "VLSI Design and Technology",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "D",
+          "code": "21CSO355T",
+          "name": "Machine Learning for All",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECE371T",
+          "name": "Database Design and Management",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21GNP301L",
+          "name": "Community Connect",
+          "credits": "0-0-2-1"
+        },
+        {
+          "slot": "G",
+          "code": "21PDM301L",
+          "name": "Analytical and Logical Thinking Skills",
+          "credits": "0-0-2-0"
+        },
+        {
+          "slot": "H",
+          "code": "21LEM301T",
+          "name": "Indian Art Form",
+          "credits": "1-0-0-0"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "E",
+          "B",
+          "C",
+          "A",
+          "D"
+        ],
+        "Tuesday": [
+          "C",
+          "B",
+          "D",
+          "F",
+          "G"
+        ],
+        "Wednesday": [
+          "H",
+          "B",
+          "A",
+          "C",
+          "E"
+        ],
+        "Thursday": [
+          "A",
+          "D",
+          "E",
+          "F",
+          "B"
+        ],
+        "Friday": [
+          "D",
+          "A",
+          "E",
+          "B",
+          "G"
+        ]
+      }
+    },
+    "IV_ECE_A": {
+      "label": "IV Year – ECE A (VII Sem)",
+      "year": 4,
+      "semester": 7,
+      "venue": "IST 225",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21GNH401T",
+          "name": "Behavioural Psychology",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC401T",
+          "name": "Wireless Communication and Antenna Systems",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "C",
+          "code": "21ECC402P",
+          "name": "Computer Communication and Network Security",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "D",
+          "code": "21ECE461T",
+          "name": "Semiconductor Memory Design",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECE463T",
+          "name": "Scripting Language for Electronic Design Automation",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21CSO355T",
+          "name": "Machine Learning for All",
+          "credits": "3-0-0-3"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "C",
+          "D",
+          "A",
+          "D",
+          "E"
+        ],
+        "Tuesday": [
+          "C",
+          "A",
+          "D",
+          "E",
+          "B"
+        ],
+        "Wednesday": [
+          "B",
+          "E",
+          "F",
+          "A",
+          "C"
+        ],
+        "Thursday": [
+          "F",
+          "A",
+          "E",
+          "B",
+          "C"
+        ],
+        "Friday": [
+          "C",
+          "A",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    },
+    "IV_ECE_B": {
+      "label": "IV Year – ECE B (VII Sem)",
+      "year": 4,
+      "semester": 7,
+      "venue": "IST 227",
+      "subjects": [
+        {
+          "slot": "A",
+          "code": "21GNH401T",
+          "name": "Behavioural Psychology",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "B",
+          "code": "21ECC401T",
+          "name": "Wireless Communication and Antenna Systems",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "C",
+          "code": "21ECC402P",
+          "name": "Computer Communication and Network Security",
+          "credits": "2-1-0-3"
+        },
+        {
+          "slot": "D",
+          "code": "21ECE461T",
+          "name": "Semiconductor Memory Design",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "E",
+          "code": "21ECE463T",
+          "name": "Scripting Language for Electronic Design Automation",
+          "credits": "3-0-0-3"
+        },
+        {
+          "slot": "F",
+          "code": "21CSO355T",
+          "name": "Machine Learning for All",
+          "credits": "3-0-0-3"
+        }
+      ],
+      "schedule": {
+        "Monday": [
+          "C",
+          "A",
+          "E",
+          "F",
+          "B"
+        ],
+        "Tuesday": [
+          "C",
+          "E",
+          "A",
+          "F",
+          "D"
+        ],
+        "Wednesday": [
+          "C",
+          "D",
+          "B",
+          "B",
+          "D"
+        ],
+        "Thursday": [
+          "D",
+          "B",
+          "A",
+          "E",
+          "C"
+        ],
+        "Friday": [
+          "E",
+          "D",
+          "F",
+          "B",
+          "C"
+        ]
+      }
+    }
+  }
+}
